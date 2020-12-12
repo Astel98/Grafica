@@ -1,0 +1,11 @@
+D:\Proyectos C#\Grafica\Grafica\bin\Debug\Grafica.exe.config
+D:\Proyectos C#\Grafica\Grafica\bin\Debug\Grafica.exe
+D:\Proyectos C#\Grafica\Grafica\bin\Debug\Grafica.pdb
+D:\Proyectos C#\Grafica\Grafica\bin\Debug\OpenTK.dll
+D:\Proyectos C#\Grafica\Grafica\bin\Debug\OpenTK.pdb
+D:\Proyectos C#\Grafica\Grafica\bin\Debug\OpenTK.xml
+D:\Proyectos C#\Grafica\Grafica\obj\Debug\Grafica.csprojAssemblyReference.cache
+D:\Proyectos C#\Grafica\Grafica\obj\Debug\Grafica.csproj.CoreCompileInputs.cache
+D:\Proyectos C#\Grafica\Grafica\obj\Debug\Grafica.csproj.CopyComplete
+D:\Proyectos C#\Grafica\Grafica\obj\Debug\Grafica.exe
+D:\Proyectos C#\Grafica\Grafica\obj\Debug\Grafica.pdb
